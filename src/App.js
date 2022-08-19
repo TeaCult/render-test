@@ -12,9 +12,7 @@ class App extends Component {
             href="/lines.txt"
             target="_blank"
             rel="noopener noreferrer"
-          >
-            These are keys 
-          </a>
+          ></a>
         </header>
       </div>
     );
