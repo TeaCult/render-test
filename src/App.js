@@ -19,6 +19,15 @@ class App extends Component {
           >
             Learn React
           </a>
+
+          <a
+            className="App-link"
+            href="/lines.txt"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            These are keys 
+          </a>
         </header>
       </div>
     );
